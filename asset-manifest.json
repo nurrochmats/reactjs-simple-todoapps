@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-todoapps-with-reactjs/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/simple-todoapps-with-reactjs/static/js/main.261c94e3.chunk.js",
+    "main.js.map": "/simple-todoapps-with-reactjs/static/js/main.261c94e3.chunk.js.map",
+    "runtime-main.js": "/simple-todoapps-with-reactjs/static/js/runtime-main.c94c9fb2.js",
+    "runtime-main.js.map": "/simple-todoapps-with-reactjs/static/js/runtime-main.c94c9fb2.js.map",
+    "static/js/2.2f255bd8.chunk.js": "/simple-todoapps-with-reactjs/static/js/2.2f255bd8.chunk.js",
+    "static/js/2.2f255bd8.chunk.js.map": "/simple-todoapps-with-reactjs/static/js/2.2f255bd8.chunk.js.map",
+    "index.html": "/simple-todoapps-with-reactjs/index.html",
+    "precache-manifest.5f987660acacb4c61ad8296eb4f12632.js": "/simple-todoapps-with-reactjs/precache-manifest.5f987660acacb4c61ad8296eb4f12632.js",
+    "service-worker.js": "/simple-todoapps-with-reactjs/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/simple-todoapps-with-reactjs/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2f255bd8.chunk.js.LICENSE.txt": "/simple-todoapps-with-reactjs/static/js/2.2f255bd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c94c9fb2.js",
+    "static/js/2.2f255bd8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.261c94e3.chunk.js"
+  ]
+}
