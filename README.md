@@ -1,8 +1,8 @@
 View [demo](https://nrrchmts.github.io/simple-todoapps-with-reactjs).
 
 ## Technology
-[reactjs](https://reactjs.org).
-[materializecss](https://materializecss.com).
+- [reactjs](https://reactjs.org).
+- [materializecss](https://materializecss.com).
 
 ## Try to use
 **Note: masih maintenance, sabar! :)**
